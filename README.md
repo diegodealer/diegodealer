@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego
 - 👀 I’m interested in videogames and learn to play music
-- 🌱 I’m currently learning  javascripts, html and css, i'm an IT student at the Universidad Tecnologica de Chihuahua
+- 🌱 I’m currently learning  javascript, html and css, i'm an IT student at the Universidad Tecnologica de Chihuahua
 - 💞️ I’m currently collaborating in a project for my university
 - 📫 How to reach me diego.rf726@gmail.com or discord: dobled0439
 - 😄 Pronouns: He/Him
