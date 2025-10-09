@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Diego
+- 👋 Hi, xoloscuintle26
 - 👀 I’m interested in videogames and learn to play music
 - 🌱 I’m currently learning react-native and js, I know some of python and I'm an IT student at the Universidad Tecnologica de Chihuahua
 - 💞️ I’m currently collaborating in a project for my university
-- 📫 How to reach me diego.rf726@gmail.com diego.rodriguez.f@outlook.com or discord:(ask first)
+- 📫 How to reach me discord: wetmaster
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a linux user entusiast i like arch (cachy os) and in my free time musician 
 
